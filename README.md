@@ -1,5 +1,7 @@
 # :hospital: Hospital Management System (HMS) :ambulance:
 
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+
 Hospital Management System is part of [HIS(Hospital information system)](https://en.wikipedia.org/wiki/Hospital_information_system). It can create patient's list based on pre-added diseases list, list patient's based on diseases and can check-out patient(s). All data is stored in local file.
 
 *This program is tested using Borland C++ Compiler.*
